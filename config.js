@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['50578229009', 'Shinoa Bot', true],
-  ['50576796164'],
+  ['59894367499', 'Asu Bot', true],
+  [''],
  
 
 
@@ -13,7 +13,7 @@ global.owner = [
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['50576796164'], 
+global.prems = ['59894367499'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,39 +71,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝝄𝞽'
-global.author = '𝗝𝗼𝘀𝗲𝗭𝘇𝘇'
-
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
-
-
-//⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
-
-global.vs = '1.1.5'
-global.version = vs
-
-global.gt = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝝄𝞽'
-global.gatabot = gt
-
-global.yt = 'https://youtube.com/channel/UCO3zMzHQ3n2C0ypN2Y5aeeg'
-global.youtube = yt
-
-global.ig = 'https://www.instagram.com/josedev2nc'
-global.gatadiosig = ig
-
-global.md = 'https://github.com/Jose21NC/ShinoaBot'
-global.gatabot = md
-
-global.nn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
-global.nngrupo = nn
-
-global.nnn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
-global.nnngrupo = nnn
-
-global.paypal = 'https://paypal.me/JObregonalonzo'
-global.donar = paypal
-
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+global.packname = '𝒜𝓈𝓊 𝐵𝑜𝓉'
+global.author = 'αѕυ'
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
@@ -134,8 +103,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽|꧁⇱㋝ℐⲞᶊℇʛⲟ⃢ɗ ㊋⇲꧂'
-global.igfg = '𝗦𝗛𝗜𝗡𝗢𝗔𝜷𝛔𝞽'
+global.packname = '𝒜𝓈𝓊 𝐵𝑜𝓉|𝒜𝓈𝓊 𝐵𝑜𝓉'
+global.igfg = '𝒜𝓈𝓊 𝐵𝑜𝓉'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
